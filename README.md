@@ -102,26 +102,23 @@ Users can:
 
 #🗂️ Project Structure ;
 
-project/
-│
-├── main.py -
-│
-├── controllers/
-│   └── maincontroller.py
-│
-├── models/
-│   ├── schemamodel.py
-│   ├── tablemodel.py
-│   ├── attributemodel.py
-│   └── relationshipmodel.py
-│
-├── ui/
-│   ├── main_window.py
-│   ├── addtable.py
-│   ├── addattribute.py
-│   ├── deleteatt.py
-│   └── relationship.py
-│
-└── README.md
+##Project /:
+ - ### main.py
+ - ### controllers /
+      - maincontroller.py
+ - ### models /
+      - Schemamodel.py
+      - tablemodel.py
+      - arributemodel.py
+      - relationshipmodel.py
+ - # Ui / (veiw)
+      - main_window.py
+      - tablename.py (add table)
+      - deletetable.py
+      - addattribute.py
+      - deleteatt.py
+      - relationship.py
+        
+
 
 
