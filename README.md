@@ -1,7 +1,7 @@
 ## Hi there 👋
  # The two students : boukhedena rima .bousetla selsabil
  
-## 📘 README.md  
+# 📘 README.md  
 
 Database Schema Designer (Python + PySide6)
 🧑‍🎓 Project for the course: Database Design
@@ -9,7 +9,7 @@ Database Schema Designer (Python + PySide6)
 Language: Python
 Framework: PySide6 (Qt)
 Project Type: Graphical Application for Database Schema Design
-## 🧩 Project Description
+# 🧩 Project Description
 
 This project is a graphical application that allows users to visually create and design a database schema (Graphical Database Designer) without manually typing SQL.
 
@@ -88,7 +88,7 @@ Users can:
 
 ## 5️⃣ SQL Generation and Execution
 
-### Generating complete and valid SQL code:
+#### Generating complete and valid SQL code:
 
  - CREATE TABLE
 
@@ -99,17 +99,5 @@ Users can:
  - Executing SQL within a temporary database (SQLite)
 
  - Validating the scheme before execution
-<!--
-**rim-1bou/rim-1bou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#🗂️ Project Structure
