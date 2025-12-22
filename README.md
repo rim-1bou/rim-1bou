@@ -223,7 +223,8 @@ It contains only the graphical interface.
  ### Examples:
 
  #### main_window.py → Main window
- ![ Project interface](<img width="1897" height="986" alt="Capture d&#39;écran 2025-12-22 233645" src="https://github.com/user-attachments/assets/5fb4b0e3-c980-4646-b44d-b6b6318f5744" />
+ ![ Project interface](<img width="1897" height="986" alt="Capture d&#39;écran 2025-12-22 233645" src="https://github.com/user-attachments/assets/1bc18bae-7260-4406-a882-2efbe98b2c9f" />
+
 )
 
 tablename.py → Dialog (Enter table name)
