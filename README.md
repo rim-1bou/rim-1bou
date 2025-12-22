@@ -1,4 +1,11 @@
 ## Hi there 👋
+#📘 README.md
+Database Schema Designer (Python + PySide6)
+🧑‍🎓 Project for the course: Database Design
+
+Language: Python
+Framework: PySide6 (Qt)
+Project Type: Graphical Application for Database Schema Design
 
 <!--
 **rim-1bou/rim-1bou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
