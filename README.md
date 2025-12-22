@@ -228,10 +228,16 @@ It contains only the graphical interface.
 )
 
  #### tablename.py → Dialog (Enter table name)
-  (<img width="1557" height="968" alt="Capture d&#39;écran 2025-12-22 234715" src="https://github.com/user-attachments/assets/fbaf7ec6-2823-4625-a102-f6d4418cafcd" />) --> (<img width="1330" height="950" alt="Capture d&#39;écran 2025-12-22 234800" src="https://github.com/user-attachments/assets/f6cd7c89-9a6c-4695-ad6c-987f0a25d9cb" />
-)
+  (<img width="1557" height="968" alt="Capture d&#39;écran 2025-12-22 234715" src="https://github.com/user-attachments/assets/fbaf7ec6-2823-4625-a102-f6d4418cafcd" />)
  
   #### addattribute.py → Dialog (Add attribute)
-   ()
+   (<img width="1245" height="966" alt="Capture d&#39;écran 2025-12-23 000002" src="https://github.com/user-attachments/assets/8a214b45-faf8-498e-8f62-df5f25051abc" />
+)
+#### dedeteatt.py -> Dialog ( remove attribute )
+(<img width="1190" height="982" alt="Capture d&#39;écran 2025-12-23 000313" src="https://github.com/user-attachments/assets/aa34217c-ee09-4a4a-ab8d-43dfead40d17" />
+)
+
 
 relationship.py → Dialog (Select relationship)
+(<img width="1242" height="976" alt="Capture d&#39;écran 2025-12-23 000627" src="https://github.com/user-attachments/assets/50031232-e5c2-464e-a1e7-48c8063b8d73" />
+)
