@@ -26,7 +26,7 @@ Users can:
  - Generate valid SQL code from the schema
 
  - Execute SQL code within a temporary database
-## 🖥️ App Features
+# 🖥️ App Features
 
  ### 1️⃣ Table Management
 
@@ -66,7 +66,7 @@ Users can:
 
  - Delete the relationship by right-clicking.
    
-## 4️⃣ N-N Relationships (Intermediate Tables)
+### 4️⃣ N-N Relationships (Intermediate Tables)
 
  #### When an N-N relationship is created:
 
@@ -86,7 +86,7 @@ Users can:
 
  - The final SQL code
 
-## 5️⃣ SQL Generation and Execution
+### 5️⃣ SQL Generation and Execution
 
 #### Generating complete and valid SQL code:
 
@@ -100,4 +100,27 @@ Users can:
 
  - Validating the scheme before execution
 
-#🗂️ Project Structure
+#🗂️ Project Structure ;
+project/
+│
+├── main.py
+│
+├── controllers/
+│   └── maincontroller.py
+│
+├── models/
+│   ├── schemamodel.py
+│   ├── tablemodel.py
+│   ├── attributemodel.py
+│   └── relationshipmodel.py
+│
+├── ui/
+│   ├── main_window.py
+│   ├── addtable.py
+│   ├── addattribute.py
+│   ├── deleteatt.py
+│   └── relationship.py
+│
+└── README.md
+
+
