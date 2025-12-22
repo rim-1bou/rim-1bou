@@ -230,8 +230,8 @@ It contains only the graphical interface.
  #### tablename.py → Dialog (Enter table name)
   (<img width="1557" height="968" alt="Capture d&#39;écran 2025-12-22 234715" src="https://github.com/user-attachments/assets/fbaf7ec6-2823-4625-a102-f6d4418cafcd" />) --> (<img width="1330" height="950" alt="Capture d&#39;écran 2025-12-22 234800" src="https://github.com/user-attachments/assets/f6cd7c89-9a6c-4695-ad6c-987f0a25d9cb" />
 )
-
-
-addattribute.py → Dialog (Add attribute)
+ 
+  #### addattribute.py → Dialog (Add attribute)
+   ()
 
 relationship.py → Dialog (Select relationship)
