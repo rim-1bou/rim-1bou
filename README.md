@@ -123,11 +123,11 @@ Users can:
 
  ## 📁 main.py
 
- ### ✨ Role:
+ #### ✨ Role:
 
 This is the application's entry point.
 
-### What does it do?
+#### What does it do?
 
  - It launches the Qt application.
 
@@ -139,5 +139,94 @@ This is the application's entry point.
    
  -  the program won't work.
 
+## 📁 models/
 
+Represents data only, without an interface or graphics.
 
+ ### 📄 schemamodel.py
+ #### ✨ Role:
+
+Represents the complete database schema.
+
+#### Contains:
+
+  - All tables
+
+  - All relationships
+
+ #### What it does:
+
+  - Add/delete a table
+
+  - Add/delete a relationship
+
+ - Generate a complete SQL statement
+
+📌 This is the logical representation of the database.
+
+### 📄 tablemodel.py
+ #### ✨ Role:
+
+Represents a single table
+
+#### Contains:
+
+  - Table name
+
+  - List of attributes
+
+  - What does it do?
+
+  - Add an attribute
+
+  - Check for a primary key
+
+  - Generate SQL for CREATE TABLE
+
+### 📄 attributemodel.py
+#### ✨ Role:
+
+Represents one property (column)
+
+#### Contains:
+ 
+  - Name
+
+  - Type
+
+  - Is it a Primary Key?
+
+ - Is it a Foreign Key?
+
+📌 Simple but essential
+
+### 📄 relationshipmodel.py
+#### ✨ Role:
+
+Represents a relationship between two tables
+
+#### Contains:
+
+  - from_table
+
+  - to_table
+
+  - Relationship type (1-N or N-N)
+
+## 📁 ui/
+ ### Why is it there?
+
+It contains only the graphical interface.
+
+📌 It's often created with Qt Designer.
+
+ ### Examples:
+
+ #### main_window.py → Main window
+ ![ Project interface(Capture d'écran 2025-12-22 233645.png)]
+
+tablename.py → Dialog (Enter table name)
+
+addattribute.py → Dialog (Add attribute)
+
+relationship.py → Dialog (Select relationship)
