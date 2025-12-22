@@ -1,7 +1,7 @@
 ## Hi there 👋
  # The two students : boukhedena rima .bousetla selsabil
  
-### 📘 README.md  
+## 📘 README.md  
 
 Database Schema Designer (Python + PySide6)
 🧑‍🎓 Project for the course: Database Design
@@ -9,7 +9,7 @@ Database Schema Designer (Python + PySide6)
 Language: Python
 Framework: PySide6 (Qt)
 Project Type: Graphical Application for Database Schema Design
-### 🧩 Project Description
+## 🧩 Project Description
 
 This project is a graphical application that allows users to visually create and design a database schema (Graphical Database Designer) without manually typing SQL.
 
@@ -26,8 +26,9 @@ Users can:
  - Generate valid SQL code from the schema
 
  - Execute SQL code within a temporary database
-### 🖥️ App Features
- ## 1️⃣ Table Management
+## 🖥️ App Features
+
+ ### 1️⃣ Table Management
 
  - Add a new table
 
@@ -37,7 +38,7 @@ Users can:
 
  - Tables can be moved within the drawing area
 
-## 2️⃣ Attribute Management
+### 2️⃣ Attribute Management
 
  - Add an attribute to each table
 
@@ -51,9 +52,9 @@ Users can:
 
  - Display table properties clearly
 
-   ## 3️⃣ Relationships
+   ### 3️⃣ Relationships
 
- #  Creating a relationship between two tables:
+ #### Creating a relationship between two tables:
 
  - One-to-Many (1-N)
 
@@ -67,7 +68,7 @@ Users can:
    
 ## 4️⃣ N-N Relationships (Intermediate Tables)
 
- # When an N-N relationship is created:
+ #### When an N-N relationship is created:
 
  - An intermediate table is automatically created
 
@@ -87,7 +88,7 @@ Users can:
 
 ## 5️⃣ SQL Generation and Execution
 
-# Generating complete and valid SQL code:
+### Generating complete and valid SQL code:
 
  - CREATE TABLE
 
