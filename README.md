@@ -1,7 +1,7 @@
 ## Hi there 👋
- #The two students : boukhedena rima .bousetla selsabil
+ # The two students : boukhedena rima .bousetla selsabil
  
-##📘 README.md  
+## 📘 README.md  
 
 Database Schema Designer (Python + PySide6)
 🧑‍🎓 Project for the course: Database Design
