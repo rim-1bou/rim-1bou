@@ -101,9 +101,10 @@ Users can:
  - Validating the scheme before execution
 
 #🗂️ Project Structure ;
+
 project/
 │
-├── main.py
+├── main.py -
 │
 ├── controllers/
 │   └── maincontroller.py
