@@ -100,9 +100,9 @@ Users can:
 
  - Validating the scheme before execution
 
-#🗂️ Project Structure ;
+# 🗂️ Project Structure ;
 
-##Project /:
+## Project /:
  - ### main.py
  - ### controllers /
       - maincontroller.py
@@ -118,7 +118,26 @@ Users can:
       - addattribute.py
       - deleteatt.py
       - relationship.py
-        
+
+ # So that : 
+
+ ## 📁 main.py
+
+ ### ✨ Role:
+
+This is the application's entry point.
+
+### What does it do?
+
+ - It launches the Qt application.
+
+ - It creates the main program window.
+
+ - It starts the event loop.
+
+ - Without it
+   
+ -  the program won't work.
 
 
 
