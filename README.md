@@ -9,6 +9,23 @@ Database Schema Designer (Python + PySide6)
 Language: Python
 Framework: PySide6 (Qt)
 Project Type: Graphical Application for Database Schema Design
+## 🧩 Project Description
+
+This project is a graphical application that allows users to visually create and design a database schema (Graphical Database Designer) without manually typing SQL.
+
+Users can:
+
+ - Create tables
+
+ - Add and delete attributes
+
+ - Define primary keys
+
+ - Create relationships between tables (1-N and N-N)
+
+ - Generate valid SQL code from the schema
+
+ - Execute SQL code within a temporary database
 
 <!--
 **rim-1bou/rim-1bou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
