@@ -223,7 +223,8 @@ It contains only the graphical interface.
  #### Examples:
 
  ##### main_window.py → Main window
- ![ Project interface] (<img width="1897" height="986" alt="Capture d&#39;écran 2025-12-22 233645" src="https://github.com/user-attachments/assets/1bc18bae-7260-4406-a882-2efbe98b2c9f" />
+ ![ Project interface] 
+ (<img width="1897" height="986" alt="Capture d&#39;écran 2025-12-22 233645" src="https://github.com/user-attachments/assets/1bc18bae-7260-4406-a882-2efbe98b2c9f" />
 
 )
 
@@ -249,7 +250,7 @@ It contains only the graphical interface.
 (<img width="1049" height="804" alt="Capture d&#39;écran 2025-12-23 105613" src="https://github.com/user-attachments/assets/be58a03d-70f2-4027-a09c-fff2962f71fd" />
 
 )
-### controller /
+### 📁 controller /
 #### Maincontroller 
 ##### 🔹 MainController Description
 
