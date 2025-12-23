@@ -269,7 +269,8 @@ Initializes the schema
 Connects buttons to actions
 
 Prepares drawing and interaction events
-![Main Interface](<img width="1897" height="986" alt="Capture d&#39;écran 2025-12-22 233645" src="https://github.com/user-attachments/assets/1a27323e-1c19-47b9-8ed2-d8abe40b21d5" />
+![Main Interface]
+(<img width="1897" height="986" alt="Capture d&#39;écran 2025-12-22 233645" src="https://github.com/user-attachments/assets/1a27323e-1c19-47b9-8ed2-d8abe40b21d5" />
 )
 ##### 🔹 Add Table
 
@@ -280,7 +281,8 @@ and display it visually in the canvas.
 
 Draws a draggable table box
 with a title and attributes.
-![add table](<img width="1248" height="1003" alt="Capture d&#39;écran 2025-12-23 104738" src="https://github.com/user-attachments/assets/27213b39-4cd0-4d75-a458-b13f4911dd3d" />
+![add table]
+(<img width="1248" height="1003" alt="Capture d&#39;écran 2025-12-23 104738" src="https://github.com/user-attachments/assets/27213b39-4cd0-4d75-a458-b13f4911dd3d" />
 )  --> (<img width="1330" height="950" alt="Capture d&#39;écran 2025-12-22 234800" src="https://github.com/user-attachments/assets/026e7504-388e-4707-965a-e2b8f0951a95" />
 )
 
@@ -295,14 +297,16 @@ Primary Key
 Foreign Key
 
 
- ![add attribute](<img width="1073" height="399" alt="Capture d&#39;écran 2025-12-23 115644" src="https://github.com/user-attachments/assets/2b8954d2-eb1b-4b29-beed-51b7aa2ffded" />) 
+ ![add attribute]
+ (<img width="1073" height="399" alt="Capture d&#39;écran 2025-12-23 115644" src="https://github.com/user-attachments/assets/2b8954d2-eb1b-4b29-beed-51b7aa2ffded" />) 
 
  --> (<img width="1073" height="399" alt="Capture d&#39;écran 2025-12-23 115644" src="https://github.com/user-attachments/assets/9565e76a-4810-4d3e-b2af-a6fba2343902" />
 
 )
 #### Note! :
 
-the table in whicg the attributes will be placed must be specified  (<img width="1270" height="972" alt="Capture d&#39;écran 2025-12-22 235904" src="https://github.com/user-attachments/assets/85d1ff03-d00e-4df3-895e-cca98d775a14" />
+the table in whicg the attributes will be placed must be specified 
+(<img width="1270" height="972" alt="Capture d&#39;écran 2025-12-22 235904" src="https://github.com/user-attachments/assets/85d1ff03-d00e-4df3-895e-cca98d775a14" />
 )
 ##### 🔹 Relationships
 
@@ -334,7 +338,8 @@ with direction and type displayed.
 
 Right-click on a relationship
 
-to delete it and its join table if exist (<img width="1733" height="957" alt="Capture d&#39;écran 2025-12-23 105733" src="https://github.com/user-attachments/assets/1ff88019-da73-4f54-aee9-bd50cc224d5d" />
+to delete it and its join table if exist
+(<img width="1733" height="957" alt="Capture d&#39;écran 2025-12-23 105733" src="https://github.com/user-attachments/assets/1ff88019-da73-4f54-aee9-bd50cc224d5d" />
 )
 
 ##### 🔹 SQL Generation
@@ -379,7 +384,10 @@ GUI programming
 
 MVC architecture
 
-SQL generation
+SQL generation 
+ ## ![final result ]
+ (<img width="1896" height="972" alt="Capture d&#39;écran 2025-12-23 131616" src="https://github.com/user-attachments/assets/559d0bf4-91b3-4941-932a-ec1dff6d08d3" />
+)
 
 
 
