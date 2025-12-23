@@ -298,7 +298,9 @@ Foreign Key
 
 
  ![add attribute]
- (<img width="1073" height="399" alt="Capture d&#39;écran 2025-12-23 115644" src="https://github.com/user-attachments/assets/2b8954d2-eb1b-4b29-beed-51b7aa2ffded" />) 
+ (<img width="1248" height="962" alt="Capture d&#39;écran 2025-12-23 105050" src="https://github.com/user-attachments/assets/01e464d3-e807-40a6-a543-2cf59166e473" />
+
+) 
 
  --> (<img width="1073" height="399" alt="Capture d&#39;écran 2025-12-23 115644" src="https://github.com/user-attachments/assets/9565e76a-4810-4d3e-b2af-a6fba2343902" />
 
